@@ -3,7 +3,7 @@
             
    I'm excited about `how web works` and computers.
    Just started learning Web Stuffs.
-    
+   <img align="center" src="assets/img/octocat.png" height=500vh>
     
 <!--
 **souravroy-test/souravroy-test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
