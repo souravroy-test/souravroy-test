@@ -1,7 +1,7 @@
 ### Hi there, I'm Sourav Roy 👋
    ![](https://komarev.com/ghpvc/?username=souravroy-test&color=blue)
-    <script src="https://tryhackme.com/badge/278792"></script>
-            
+   ![]("https://tryhackme.com/badge/278792")
+    
    I'm excited about `how web works` and computers.
    Just started learning Web Stuffs.
    <img align="center" src="assets/img/octocat.png" height=500vh>
