@@ -1,5 +1,6 @@
 ### Hi there, I'm Sourav Roy 👋
    ![](https://komarev.com/ghpvc/?username=souravroy-test&color=blue)
+    <script src="https://tryhackme.com/badge/278792"></script>
             
    I'm excited about `how web works` and computers.
    Just started learning Web Stuffs.
